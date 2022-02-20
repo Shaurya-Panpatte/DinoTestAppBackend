@@ -2,7 +2,20 @@
   "questions": [
     {
       "id": 1,
-      "title": "This is first question"
+      "title": "This is first question",
+      "answerOptions" :[
+
+        {
+          "id" : 1,
+          "text": "TRex"
+        },
+        {
+          "id" : 2,
+          "text": "TRex2"
+        }
+      ],
+      "correctAnswerId" : 2,
+      "questionImageUrl" : "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
     }
   ],
   "profile": {
