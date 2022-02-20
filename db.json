@@ -26,6 +26,33 @@
       ],
       "correctAnswerId" : 2,
       "questionImageUrl" : "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Question2",
+      "answerOptions" :[
+
+        {
+          "id" : 1,
+          "text": "ShauryaSaurus2"
+        },
+        {
+          "id" : 2,
+          "text": "SatishSaurus2"
+        },
+                {
+          "id" : 3,
+          "text": "VeenaSaurus2"
+        },
+                {
+          "id" : 4,
+          "text": "ShivSaurus2"
+        }
+
+
+      ],
+      "correctAnswerId" : 1,
+      "questionImageUrl" : "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
     }
   ]
   
