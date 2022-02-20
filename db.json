@@ -2,24 +2,24 @@
   "questions": [
     {
       "id": 1,
-      "title": "This is first question",
+      "title": "Which Dinosaur is considered the 'King of Dinousaurs'?",
       "answerOptions" :[
 
         {
           "id" : 1,
-          "text": "TRex1"
+          "text": "ShauryaSaurus"
         },
         {
           "id" : 2,
-          "text": "TRex2"
+          "text": "SatishSaurus"
         },
                 {
           "id" : 3,
-          "text": "TRex3"
+          "text": "VeenaSaurus"
         },
                 {
           "id" : 4,
-          "text": "TRex4"
+          "text": "ShivSaurus"
         }
 
 
