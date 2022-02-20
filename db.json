@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "id": 1,
       "title": "This is first question",
@@ -17,8 +16,6 @@
       "correctAnswerId" : 2,
       "questionImageUrl" : "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
     }
-  ],
-  "profile": {
-    "name": "Shaurya-Panpatte"
-  }
-}
+  ]
+  
+
