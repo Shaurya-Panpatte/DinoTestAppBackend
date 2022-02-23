@@ -3,84 +3,74 @@
     {
       "id": 1,
       "title": "Which Dinosaur is considered the 'King of Dinousaurs'?",
-      "answerOptions" :[
-
+      "answerOptions": [
         {
-          "id" : 1,
-          "text": "Shaurya Saurus"
+          "id": 1,
+          "text": "Apatosarus"
         },
         {
-          "id" : 2,
-          "text": "Correct Answer"
+          "id": 2,
+          "text": "Tyrannosaurus Rex | T - Rex"
         },
-                {
-          "id" : 3,
-          "text": "Veena Saurus"
+        {
+          "id": 3,
+          "text": "Diplodocus"
         },
-                {
-          "id" : 4,
-          "text": "Shiv Saurus"
+        {
+          "id": 4,
+          "text": "Carnotaurus"
         }
-
-
       ],
-      "correctAnswerId" : 2,
-      "questionImageUrl" : "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
+      "correctAnswerId": 2,
+      "questionImageUrl": "https://cdn2.vectorstock.com/i/1000x1000/95/41/tyrannosaurus-dinosaur-king-t-rex-most-important-vector-6779541.jpg"
     },
     {
       "id": 2,
-      "title": "Question2",
-      "answerOptions" :[
-
+      "title": "Which Dinosaur Of These Lived With The T - Rex?",
+      "answerOptions": [
         {
-          "id" : 1,
-          "text": "Correct Answer"
+          "id": 1,
+          "text": "Ankylosaurus"
         },
         {
-          "id" : 2,
-          "text": "Satish Saurus2"
+          "id": 2,
+          "text": "Brachiosarus"
         },
-                {
-          "id" : 3,
-          "text": "Veena Saurus2"
+        {
+          "id": 3,
+          "text": "Stegosaurs"
         },
-                {
-          "id" : 4,
-          "text": "Shiv Saurus2"
+        {
+          "id": 4,
+          "text": "Allosaurus"
         }
-
-
       ],
-      "correctAnswerId" : 1,
-      "questionImageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JzLx_LkEUk5oo7_NvYNzz1_m-QBzDUpI3Q&usqp=CAU"
+      "correctAnswerId": 1,
+      "questionImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JzLx_LkEUk5oo7_NvYNzz1_m-QBzDUpI3Q&usqp=CAU"
     },
     {
       "id": 3,
-      "title": "Question3",
-      "answerOptions" :[
-
+      "title": "Which Dinosaur Had The Longest Neck?",
+      "answerOptions": [
         {
-          "id" : 1,
+          "id": 1,
           "text": "Shaurya Saurus3"
         },
         {
-          "id" : 2,
+          "id": 2,
           "text": "Satish Saurus3"
         },
-                {
-          "id" : 3,
+        {
+          "id": 3,
           "text": "Correct Answer"
         },
-                {
-          "id" : 4,
+        {
+          "id": 4,
           "text": "Shiv Saurus3"
         }
-
-
       ],
-      "correctAnswerId" : 3,
-      "questionImageUrl" : "https://scx2.b-cdn.net/gfx/news/hires/2015/longneckeddr.jpg"
+      "correctAnswerId": 3,
+      "questionImageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2015/longneckeddr.jpg"
     }
   ]
-  
 }
